@@ -1,2 +1,2 @@
 # ocr
-optical character recognition
+optical character recognition in c++
